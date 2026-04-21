@@ -9,6 +9,3 @@ Build an end-to-end data + AI system for:
 
 ## ⚙️ Stack
 Python, SQL, ML, APIs, Dashboard
-
-## 🚀 Status
-Week 1 – Setup phase
